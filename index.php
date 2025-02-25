@@ -30,10 +30,10 @@ function array_delete($value, $array) {
   <head>
     <meta charset="UTF-8">
     <title>Welcome to my page!</title>
-    <meta name="description" content="A Shoutbox that allows people to quickly leave messages on the website, without any form of user registration">
+    <meta name="description" content="A simple single-serving web site that randomly changes text, background color, font style, font size, font color, and text-align.">
     <meta name="author" content="Mirnes Glamočić">
     <!-- Facebook & Viber -->
-    <meta name="title" property="og:title" content="Shoutbox">
+    <meta name="title" property="og:title" content="PHP-One page site">
 
     <!-- Facebook, Viber, LinkedIn, Whatsapp & KakaoTalk(meta tags) -->
     <meta property="og:url" content="https://php-one-page-site.mirnesglamocic.com/">
