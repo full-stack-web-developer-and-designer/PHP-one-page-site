@@ -39,7 +39,7 @@ Perfect as a starter template or a personal mini-website.
 
 ## 🛠️ Technologies Used
 
-- **PHP** (for server-side includes)  
+- **PHP** 
 - **HTML5**  
 - **CSS3**  
 - **JavaScript**  
