@@ -1,7 +1,7 @@
 # PHP One Page Site — php-one-page-site.mirnesglamocic.com
 
 A simple, fast, and lightweight **single-page PHP website** designed to demonstrate clean structure, reusable components, and minimal server-side rendering.  
-Built as part of the portfolio of **Mirnes Glamočić**, this project showcases how to create a modular one-page layout using PHP includes.
+Built as part of the portfolio of **Mirnes Glamočić**, this project showcases how to create a modular one-page layout using a PHP function rand.
 
 ---
 
@@ -29,8 +29,7 @@ Perfect as a starter template or a personal mini-website.
 
 ## ✨ Features
 
-- ✔️ Single-page layout  
-- ✔️ PHP-based component includes  
+- ✔️ Single-page layout   
 - ✔️ Clean and responsive design  
 - ✔️ Lightweight, minimal, and fast  
 - ✔️ Easy to customize or expand  
@@ -43,9 +42,9 @@ Perfect as a starter template or a personal mini-website.
 - **PHP** (for server-side includes)  
 - **HTML5**  
 - **CSS3**  
-- **JavaScript** (optional enhancements)  
+- **JavaScript**  
 - **Responsive design principles**  
-- **Apache/Nginx compatible**
+- **Apache**
 
 ---
 
